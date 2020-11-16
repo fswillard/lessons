@@ -1,0 +1,10 @@
+.markdown-section code,
+.markdown-section pre,
+.markdown-section pre>code {
+  background-color: #282c34;
+  color: #cacaca;
+}
+
+table {
+  text-align: left;
+}
